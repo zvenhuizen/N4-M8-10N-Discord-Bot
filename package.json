@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SkyJedi/SWEotE-Discord-Dice-Roller"
+    "url": "git+https://github.com/zvenhuizen/N4-M8-10N-Discord-Bot"
   },
   "dependencies": {
     "discord.js": "^12.2.0",
